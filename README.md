@@ -1,4 +1,4 @@
-# US-Labour-Statistics-Dashboard-using-Excel-
+# US Labour Statistics Dashboard using Excel
 This wage and employment trends dashboard is designed to provide high school seniors with insights on the labor market and potential career paths. Using data from the U.S. Bureau of Labor Statistics, this dashboard offers students an interactive platform to explore wage and employment trends across various industries and states.
 
 With the dashboard's user-friendly interface, students can select specific industries, occupations, and geographic locations to analyze the data and visualize the trends. The dashboard features a variety of charts and visualizations, such as bar charts, line charts, and maps, to help students understand the data and identify the best career opportunities.
